@@ -1,0 +1,31 @@
+{
+  "name": "blog",
+  "version": "0.1.0",
+  "description": "> TODO: description",
+  "author": "Pavlos Vinieratos <pvinis@gmail.com>",
+  "homepage": "https://github.com/pvinis/pvinis-web#readme",
+  "license": "ISC",
+  "main": "lib/blog.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvinis/pvinis-web.git"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
+  },
+  "bugs": {
+    "url": "https://github.com/pvinis/pvinis-web/issues"
+  }
+}
