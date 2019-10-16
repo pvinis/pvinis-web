@@ -1,5 +1,10 @@
 {
   "name": "root",
+  "scripts": {
+    "postinstall": "yarn lerna bootstrap",
+    "blog:start": "yarn --cwd packages/blog start",
+    "blog:build":  "yarn --cwd packages/blog gatsby build"
+  },
   "dependencies": {},
   "devDependencies": {
     "eslint": "6.5.1",
