@@ -3,11 +3,13 @@
   "scripts": {
     "postinstall": "yarn lerna bootstrap",
     "blog:start": "yarn --cwd packages/blog start",
-    "blog:build":  "yarn --cwd packages/blog gatsby build"
+    "blog:build": "yarn --cwd packages/blog gatsby build"
   },
   "dependencies": {},
   "devDependencies": {
+    "babel-eslint": "10.0.3",
     "eslint": "6.6.0",
+    "eslint-plugin-react": "7.16.0",
     "lerna": "3.18.3"
   },
   "license": "MIT"

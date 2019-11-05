@@ -2,6 +2,8 @@
 title: My first conference as a speaker
 date: "2019-10-07T07:41:32.169Z"
 tags: non-technical, react-native, conference, talk
+date: 2019-10-07T07:41:32.169Z
+draft: true
 ---
 
 In the beginning of September I was in Poland for the React Native EU conference. It's the largest european conference focused on React Native, which I love and we use at work for our app. There are a bunch of conferences all over the world, some for React Native and some for React. Each conference invites people to become speakers, and this year for this conference I got invited to give a talk on the topic of upgrading React Native apps.

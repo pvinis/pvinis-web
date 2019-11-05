@@ -1,6 +1,6 @@
 ---
 title: init commit
-date: "2019-03-20T22:41:32.169Z"
+date: 2019-03-20T22:41:32.169Z
 ---
 
 Let's get this out of the way. This is my first post!
