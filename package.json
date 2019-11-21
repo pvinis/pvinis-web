@@ -10,7 +10,7 @@
     "babel-eslint": "10.0.3",
     "eslint": "6.6.0",
     "eslint-plugin-react": "7.16.0",
-    "lerna": "3.18.3"
+    "lerna": "3.19.0"
   },
   "license": "MIT"
 }
