@@ -1,6 +1,5 @@
 ---
 title: My first conference as a speaker
-date: "2019-10-07T07:41:32.169Z"
 tags: non-technical, react-native, conference, talk
 date: 2019-10-07T07:41:32.169Z
 draft: true
