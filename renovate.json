@@ -3,5 +3,9 @@
   "includePaths": [
     "package.json",
     "packages/**"
-  ]
+  ],
+  "automerge": true,
+  "major": {
+    "automerge": false
+  }
 }
